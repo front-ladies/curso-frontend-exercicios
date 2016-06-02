@@ -4,10 +4,10 @@ Antes de sair fazendo todo o exercício, leia todos passos atentamente e se tive
 ## Instruções
 1.- Criar um repositório remoto com o nome "git-exercicios" na sua conta Github.  
 2.- Clonar o repositório na sua máquina.  
-3.- Configure o nome do seu usuário colocando seu nome e as "iniciais" do(s) seu(s) sobrenome(s), isto deve ser feito somente para este repositório.  
+3.- Configure o nome do seu usuário colocando seu nome e as "iniciais" do(s) seu(s) sobrenome(s), isto deve ser feito somente para este repositório (não altere a configuração do e-mail).  
   *Ex:*   
   ```
-  Andrea KFZ (não altere a configuração do e-mail) 
+  Andrea KFZ
   ```
 4.- Criar um arquivo de texto (.txt) vazio chamado "Lista de comandos git".  
 5.- Salvar essa alteração no repositório.  
@@ -21,9 +21,9 @@ Antes de sair fazendo todo o exercício, leia todos passos atentamente e se tive
     > Este comando faz algo que você vai lembrar da aula
 11.- Fazer um commit a cada 3 arquivos alterados, repetir até acabarem os arquivos.  
 12.- Criar um arquivo chamado "arquivo errado" (seguir as boas práticas para nomes de arquivo) e colocar o seguinte texto:  
-    ```
-    Eat grass, throw it back up put butt in owner's face but put butt in owner's face then cats take over the world. Fall asleep on the washing machine meowzer! and meowzer! so i like big cats and i can not lie yet white cat sleeps on a black shirt and sleep in the bathroom sink. Scamper. Favor packaging over toy jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed play riveting piece on synthesizer keyboard. All of a sudden cat goes crazy stand in front of the computer screen missing until dinner time, for human is washing you why halp oh the horror flee scratch hiss bite yet ignore the squirrels, you'll never catch them anyway intently stare at the same spot. Under the bed. Refuse to leave cardboard box eat from dog's food or hunt anything that moves stares at human while pushing stuff off a table and all of a sudden cat goes crazy, so spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce.
-    ```
+```
+Eat grass, throw it back up put butt in owner's face but put butt in owner's face then cats take over the world. Fall asleep on the washing machine meowzer! and meowzer! so i like big cats and i can not lie yet white cat sleeps on a black shirt and sleep in the bathroom sink. Scamper. Favor packaging over toy jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed play riveting piece on synthesizer keyboard. All of a sudden cat goes crazy stand in front of the computer screen missing until dinner time, for human is washing you why halp oh the horror flee scratch hiss bite yet ignore the squirrels, you'll never catch them anyway intently stare at the same spot. Under the bed. Refuse to leave cardboard box eat from dog's food or hunt anything that moves stares at human while pushing stuff off a table and all of a sudden cat goes crazy, so spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce.
+```
 13.- Salvar este arquivo no seu repositório.  
 14.- Excluir o arquivo "arquivo errado" e salvar esta exclusão no seu histórico/repositório.  
 15.- Enviar tudo que fez para o servidor remoto. Neste caso estamos utilizando o [Github](https://github.com/).  
